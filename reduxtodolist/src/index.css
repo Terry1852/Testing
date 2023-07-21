@@ -1,0 +1,84 @@
+.create{
+  display: flex;
+  width: 150;
+  justify-content: center;
+  align-items: center;
+}
+
+.createHead{
+  width: 120;
+  color: rgb(9, 52, 90);
+  font-size: 20px;
+  font-family: Cambria;
+}
+
+.container{
+  width: 120;
+  color: rgb(9, 52, 90);
+  font-size: 20px;
+  font-family: Cambria;
+  border: none ;
+}
+
+.table{
+  border: none;
+
+}
+
+.tableHead {
+  font-size: 20px;
+  /* font-family: Cambria; */
+  border: none;
+  color: grey;
+}
+
+.tableBody {
+  border: none;
+}
+
+a{
+  text-decoration: none;
+  color: aqua;
+  font-family: Courier;
+  font-size: 0.9rem;
+  border: none;
+
+}
+
+.deleteButton{
+  border-radius: 10px;
+  background-color: orangered;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border: none;
+  
+
+}
+
+.editButton{
+  border-radius: 10px;
+  background-color: blue;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border: none;
+}
+
+.createButton{
+  border-radius: 10px;
+  background-color: yellowgreen;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border: none;
+}
